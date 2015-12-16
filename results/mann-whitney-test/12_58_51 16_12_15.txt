@@ -1,0 +1,3 @@
+Strain1:WT         Strain2:Ste11(S243A) Series:shmooing dist   statistics:880.50 pvalue:0.00
+Strain1:WT         Strain2:Ste11(S243A) Series:lenght          statistics:961.50 pvalue:0.00
+Strain1:WT         Strain2:Ste11(S243A) Series:time until shmooing statistics:1174.00 pvalue:0.00

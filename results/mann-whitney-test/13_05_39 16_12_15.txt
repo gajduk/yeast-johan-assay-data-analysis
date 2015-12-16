@@ -1,0 +1,3 @@
+Strain1: WT            Strain2: Ste11(S243A)  Series: shmooing dist        significance:   0.533  
+Strain1: WT            Strain2: Ste11(S243A)  Series: lenght               significance:   0.562  
+Strain1: WT            Strain2: Ste11(S243A)  Series: time until shmooing  significance:   0.686  

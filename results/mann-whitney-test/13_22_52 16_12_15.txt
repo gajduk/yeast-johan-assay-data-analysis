@@ -1,0 +1,3 @@
+Strain1: WT            Strain2: Ste11(S243A)  Series: shmooing dist        smallu:  880.500 bigu: 2425.500 z:    4.323
+Strain1: WT            Strain2: Ste11(S243A)  Series: lenght               smallu:  961.500 bigu: 2460.500 z:    4.119
+Strain1: WT            Strain2: Ste11(S243A)  Series: time until shmooing  smallu: 1174.000 bigu: 2248.000 z:    2.928

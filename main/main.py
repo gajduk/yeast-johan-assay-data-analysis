@@ -9,7 +9,7 @@ def main():
                                      series=['WT','Ste11(S243A)'], nbins=15,
                                      transformations=)
     '''
-    ViolinPlotter().plotViolin(data,labels_to_plot=['shmooing dist','time until shmooing'],series=['WT','Ste11(S243A)'])
+    ViolinPlotter().plotViolin(data,labels_to_plot=['shmooing dist','actual time until shmooing'],series=['WT','Ste11(S243A)'])
 
 if __name__ == "__main__":
     main()
